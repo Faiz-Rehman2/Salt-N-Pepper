@@ -64,6 +64,9 @@
 .m-4{
     margin: 20px;
 }
+.mb-1{
+    margin-bottom: 50px;
+}
 .mt-1{
     margin-top: 5px;
 }
@@ -75,6 +78,52 @@
 }
 .mt-4{
     margin-top: 20px;
+}
+.pt-1{
+    padding-top: 50px;
+}
+.pt-2{
+    padding-top: 40px;
+}
+.pt-3{
+    padding-top: 30px;
+}
+.pad-1{
+    padding: 50px;
+
+}
+.pad-2{padding: 40px;
+
+}
+.pad-3{padding: 30px;
+
+}
+.pad-5{
+    padding: 10px;
+}
+.pad-r{
+    padding-right: 50px;
+}
+.mrg-lr{
+    margin: 0px 50px;
+}
+.mrg-ud{
+    margin: 50px 0px;
+}
+
+.gap-1{gap: 50px;}
+.gap-2{gap: 40px;}
+.gap-3{gap: 30px;}
+
+
+
+
+.border-w{
+
+    border: 2px solid white;
+}
+.border-b{
+    border: 2px solid black;
 }
 
 /* margin classes end */
@@ -108,9 +157,18 @@
     color: #ffffff;
 }
 .text-grey{
-    color: rgba(255, 255, 255, 0.7);
+    color: #ffffffb3;
 }
 
 .transparent{
     background-color: transparent;
 }
+.futurak{
+    font-family: futurak-heavy;
+}
+.branch-card > img{
+    width: 350px;
+    height: 200px;
+    margin: 0 15px;
+    margin-top: 30px;} 
+    
